@@ -1,0 +1,21 @@
+.newsletter{
+    background-color: black;
+    color:#fff;
+}
+
+.title{
+    text-align: center;
+    background-color: #ED1B24;
+}
+
+.inputLabel{
+    color:#fff;
+    font-size: 0.8125rem;
+    font-weight: bold;
+}
+
+.textField{
+    background-color: #fff;
+    border-style: none;
+
+}

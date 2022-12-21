@@ -1,6 +1,7 @@
 import { Box, Button, Container, Stack, Typography } from "@mui/material";
 import { useEffect } from "react";
 import ComponentBanner from "../components/banner/banner";
+import ComponentNewsletter from "../components/newsletter/newsletter";
 import PageCharactersList from "./characters/list";
 
 export default function PageHome() {
@@ -50,6 +51,8 @@ export default function PageHome() {
                 </Stack>
 
             </Box>
+
+            <ComponentNewsletter/>
 
         </>
     )
